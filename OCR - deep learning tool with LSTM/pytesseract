@@ -1,0 +1,4 @@
+Optical Character Recognition (OCR) is a technology used to convert different types of documents, such as scanned paper documents, PDF files or images captured by a digital camera into editable and searchable data.
+
+PyTesseract is an Optical Character Recognition (OCR) tool for Python. It will recognize and read the text embedded in images. PyTesseract is a wrapper for Google’s Tesseract-OCR Engine.
+
